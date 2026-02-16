@@ -75,3 +75,10 @@ O dashboard permite segmentação por:
 - A média de desconto (25,80%) pode impactar diretamente a margem de lucro.
 
 ---
+
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://youtu.be/S2zBHmkRbhY?si=ayeTR_R2us1iDnbT.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
+
